@@ -1,1 +1,2 @@
-# Creating-Balance-sheet-using-c-
+# Creating-Balance-sheet-using-c++
+For my second C++ project, I created a balance sheet generator that organizes and calculates different financial components using C++ classes and data structures. The project involved using classes to represent various sections of the balance sheet, such as assets, liabilities, and equity. It is more of a user-friendly one which asks the user for the input of cash, equipment ,etc . Moving forward, this project has given me a solid understanding of object-oriented programming, and I’m excited to take on even more complex and interesting challenges as I continue to build on my C++ skills. Excited for the third one.👍
